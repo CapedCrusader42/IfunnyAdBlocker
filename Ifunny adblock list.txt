@@ -16,6 +16,7 @@ edge-mqtt.facebook.com
 firebase-settings.crashlytics.com 
 firebaselogging-pa.googleapis.com 
 hbsdk-config.log.smaato.net 
+in.appcenter.ms
 inapps.appflyer.com 
 insight.adsrvr.org 
 ipv6.msftconnecttest.com 
