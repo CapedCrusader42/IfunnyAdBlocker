@@ -25,3 +25,5 @@ e.reddit.com
 edge-mqtt.facebook.com
 dns.msftncsi.com
 ipv6.msftconnecttest.com	
+ads.mopub.com
+aax-us.amazon-adsystem.com
