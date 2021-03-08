@@ -1,5 +1,5 @@
 # IfunnyAdBlocker
-I created this as a way to exact my revenge on the excesive ad placement that plagues the Ifunnny community. 
+I created this as a way to exact my revenge on the excessive ad placement that plagues the Ifunnny community. 
 
 Sadly, the issue is most prominent on poor souls like me who use mobile and have no way to defend themselves from the money hungry management of Ifunny.
 
