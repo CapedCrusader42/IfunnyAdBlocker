@@ -1,14 +1,16 @@
-aax-us.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
+aax-us.amazon-adsystem.com
 aax.amazon-adsystem.com
 ad.doubleclick.net
 ads.mopub.com
 ads.nexage.com
 an.facebook.com
+api.appodealx.com
 app.adjust.com
 brahe.apptimize.com
 c.amazon-adsystem.com
 cdn.branch.io
+config.inmobi.com
 crashlyticsreports-pa.googleapis.com
 dns.msftncsi.com
 e.reddit.com
@@ -18,6 +20,7 @@ firebaselogging-pa.googleapis.com
 hbsdk-config.log.smaato.net
 in.appcenter.ms
 inapps.appflyer.com
+inapps.appsflyer.com
 insight.adsrvr.org
 ipv6.msftconnecttest.com
 launches.appsflyer.com
@@ -30,6 +33,7 @@ sb.scorecardresearch.com
 secure.insightexpressai.com
 service.cmp.oath.com
 ssl.google-analytics.com
+telemetry.sdk.inmobi.com
 tps.doubleverify.com
 unifiedbidding.ad.smaato.net
 www.googleadservices.com
