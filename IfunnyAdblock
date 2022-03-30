@@ -1,3 +1,4 @@
+2.us.pool.ntp.org
 aax-us-east.amazon-adsystem.com
 aax-us.amazon-adsystem.com
 aax.amazon-adsystem.com
@@ -10,6 +11,7 @@ app.adjust.com
 brahe.apptimize.com
 c.amazon-adsystem.com
 cdn.branch.io
+cdn2.inner-active.mobi
 config.inmobi.com
 crashlyticsreports-pa.googleapis.com
 dns.msftncsi.com
@@ -40,6 +42,7 @@ ssl.google-analytics.com
 telemetry.sdk.inmobi.com
 tps.doubleverify.com
 unifiedbidding.ad.smaato.net
+wv.inner-active.mobi
 www.googleadservices.com
 www.googletagmanager.com
 z.moatads.com
